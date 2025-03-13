@@ -2,10 +2,13 @@
 layout: default
 title: La Direction Artistique
 ---
-
-<div class='xs-12 topBar hidden'>
-  <p>{{ page.title }}</p>
+<div class='post-wrap flexbox-contain column'>
+	<div class='xs-12 topBar hidden'>
+	  <p>{{ page.title }}</p>
+	</div>
+	<div class="divider xs-12 topBar Trigger"></div>	
+	<p>Le Masque Productions s'est entourée de deux artistes talentueux pour transmettre leur passion de la scène, du spectacle et de la comédie musicale.</p>
+	{% include coachvocale.html %}
+	<div class="divider xs-12 topBar Trigger"></div>	
+	{% include choregraphe.html %}
 </div>
-<p>Le Masque Productions s'est entourée de deux artistes talentueux pour transmettre leur passion de la scène, du spectacle et de la comédie musicale.</p>
-{% include coachvocale.html %}
-{% include choregraphe.html %}
