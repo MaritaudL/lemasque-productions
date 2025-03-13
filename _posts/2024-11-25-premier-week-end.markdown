@@ -2,9 +2,9 @@
 layout: post
 title:  "Quand la troupe se rencontre..."
 date:   2024-11-25 09:11:03
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: person1.jpeg
-categories: category1
+description: Première répétition.
+thumbnail: cancan_1.jpg
+categories: répétitions
 
 # Information for the author block
 author: Nina Petropoulos

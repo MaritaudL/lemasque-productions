@@ -2,12 +2,12 @@
 layout: post
 title:  "More, More, More!"
 date:   2025-03-17 09:11:03
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: person1.jpeg
-categories: category1
+description: Quatrième week end, danse, chant, acting !
+thumbnail: cancan.jpg
+categories: répétitions
 
 # Information for the author block
-author: Nina Petropoulos
+author: Louis Maritaud
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [enim ad minim][link1] veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
