@@ -4,7 +4,7 @@ title:  "Quand la troupe se rencontre..."
 date:   2024-11-25 09:11:03
 description: Première répétition.
 thumbnail: fauteuils.jpg
-categories: Rouge!
+categories: rouge
 
 # Information for the author block
 author: Louis Maritaud

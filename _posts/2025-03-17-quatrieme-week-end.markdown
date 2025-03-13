@@ -4,7 +4,7 @@ title:  "More, More, More!"
 date:   2025-03-17 09:11:03
 description: Quatrième week end, danse, chant, acting !
 thumbnail: cancan.jpg
-categories: Rouge!
+categories: rouge
 
 # Information for the author block
 author: Louis Maritaud

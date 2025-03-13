@@ -4,7 +4,7 @@ title:  "Spectacular troisième résidence"
 date:   2025-02-17 09:11:03
 description: Troisième week-end orienté chant
 thumbnail: micro.jpg
-categories: Rouge!
+categories: rouge
 
 # Information for the author block
 author: Louis Maritaud

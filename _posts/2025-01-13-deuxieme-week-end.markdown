@@ -4,7 +4,7 @@ title:  "Everybody cancan!"
 date:   2025-01-13 09:11:03
 description: Premier week-end consacré à la danse
 thumbnail: cancan_1.jpg
-categories: Rouge!
+categories: rouge
 
 # Information for the author block
 author: Louis Maritaud
