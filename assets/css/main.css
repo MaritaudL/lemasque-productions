@@ -615,6 +615,9 @@ footer {
       width: 100%;
       clear: both; } }
 
+.small {
+  height:5px;
+} 
 .tall {
   height: 470px; }
 
