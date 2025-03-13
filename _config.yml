@@ -7,10 +7,10 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: Le  Masque Productions
 email: contact@lemasque-productions.com
 description: Site web de l'association Le Masque Productions
-baseurl: "lemasque-productions" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: "maritaul.github.io"
+url: "https://maritaudl.github.io/lemasque-productions/"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
