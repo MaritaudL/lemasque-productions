@@ -14,8 +14,8 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */ }
 
-/**
  * Remove default margin.
+/**
  */
 body {
   margin: 0; }
@@ -504,6 +504,7 @@ main.pushLeft {
 
 main .toggle-button {
   z-index: 1;
+  top:0;
   position: fixed;
   margin-left: 15px;
   width: 50px;
@@ -777,6 +778,7 @@ button.download {
 
 .topBar {
   position: fixed;
+  top:0;
   background: white;
   border-bottom: solid 4px #c92037;
   opacity: .95; }
