@@ -1,60 +1,29 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
-{% for post in site.posts limit:1 %}
-<div class="xs-12 imgBack link textCenter vertCenter grow tall" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
-  <div>
-    <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-  </div>
-</div>
-{% endfor %}
-
-<div class='flexbox wrap'>
-{% for post in site.posts limit:2 offset:1 %}
-  <div class="sm-6 imgBack link vertCenter textCenter grow short" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
-</div>
-<div class='divider xs-12 grow'></div>
-
-<div class='flexbox'>
-{% for post in site.posts limit:2 offset:3 %}
-  <div class="sm-6 textPreview vertCenter grow short">
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
+<div class='xs-12 topBar hidden'>
+  <p>{{ page.title }}</p>
 </div>
 
-<div class='flexbox wrap'>
-{% for post in site.posts limit:3 offset:5 %}
-  <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
-</div>
-<div class='divider xs-12 grow'></div>
+<div class="xs-12 imgBack textCenter vertCenter banner" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/thumbnail_rouge.png)'></div>
 
-<div class='flexbox'>
-{% for post in site.posts limit:2 offset:8 %}
-  <div class="sm-6 textPreview vertCenter grow short">
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
+<div class='divider xs-12 topBarTrigger'></div>
+
+<div class='post-wrap flexbox-contain column'>
+
+  <!-- Tell people something unique about you... -->
+  <h1 class='textCenter'>Les représentations</h1>
+  <p class='big textCenter'><b class='accent'>juin 2025</b></p>
+
+  <h3>Venez nous voir produire <i>Rouge! Le Musical</i>, sur scène !</h3>
+  <p>Deux représentations sont prévues :<p>
+  <ul>
+	<li>La première, en début d'après-midi</li>
+	<li>La deuxième, en début de soirée</li>
+  </ul>
+  <p>Les deux représentations auront lieu un dimanche de juin, les dates, le lieu et le prix sont encore à fixer. Restez connectés !</p>
+  
+	
+
 </div>
