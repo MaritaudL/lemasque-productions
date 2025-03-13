@@ -4,7 +4,7 @@ title:  "Le début de l'aventure associative"
 date:   2024-09-01
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg
-categories: category1
+categories: association
 
 # Information for the author block
 author: Louis Maritaud

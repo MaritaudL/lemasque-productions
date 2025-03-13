@@ -4,7 +4,7 @@ title:  "Cette année sera Rouge!"
 date:   2024-10-25 09:11:03
 description: Un nouveau spectacle en cours
 thumbnail: thumbnail_rouge.png
-categories: category1
+categories: Rouge!
 
 # Information for the author block
 author: Louis Maritaud
