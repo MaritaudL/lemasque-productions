@@ -603,6 +603,22 @@ main.pushLeft {
   top: 10px;
   right: 10px;
 }
+
+/* Animation du bouton en "X" */
+#menu.slideout-open .toggle-button .bar:nth-child(1) {
+  top: 22px;
+  transform: rotate(45deg);
+}
+
+#menu.slideout-open .toggle-button .bar:nth-child(2) {
+  opacity: 0;
+}
+
+#menu.slideout-open .toggle-button .bar:nth-child(3) {
+  top: 22px;
+  transform: rotate(-45deg);
+}
+
 #menu.topNavbar {
   position: fixed;
   z-index: 1;
