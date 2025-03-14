@@ -9,7 +9,7 @@ categories: rouge
 # Information for the author block
 author: Corentin Allano
 ---
-LAprès des mois d’attente, il est temps que la troupe se découvre enfin. Au petit matin de ce samedi 25 novembre, tout est là, l’apprehension, l’envie, le doute mais surtout l’excitation. Qui vont être mes partenaire de scène, dans quoi je m’embarque ?     
+Après des mois d’attente, il est temps que la troupe se découvre enfin. Au petit matin de ce samedi 25 novembre, tout est là, l’apprehension, l’envie, le doute mais surtout l’excitation. Qui vont être mes partenaire de scène, dans quoi je m’embarque ?     
 Rébecca et Corentin sont là, tout aussi excités et impatients que les treize courageux qui ont décider de franchir le cap et de monter à leurs côtés, en an, une comédie musicale.    
 Leur mission, en deux jours, présenter le spectacle mais surtout briser la glace entre chacun afin de permettre à tout le monde de prendre la place 
 et l’espace qu’il mérite. Il n’est pas facile de se faire une 
