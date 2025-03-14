@@ -7,26 +7,25 @@ thumbnail: cancan_1.jpg
 categories: rouge
 
 # Information for the author block
-author: Louis Maritaud
+author: Corentin Allano
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [enim ad minim][link1] veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Ut enim ad minim veniam][link2], quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Il est très tôt en ce samedi 13 janvier, et surtout il fait froid… 
+Mais nos deux coachs sont sur le pied de guerre et pour cause, c’est la reprise après les fêtes. 
 
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit][link3], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+### Ce week end sera Cancan !
 
-###Ut Labore et Dolore
+La chauffe physique s’intensifie. Et oui, il faut se préparer au french Cancan. 
+L’objectif, monter en quarante huit heures l’ouverture du spectacle et ses 8 minutes de chant et danse intenses !     
+Pendant que Rébecca travaille la voix avec les deux principaux protagonistes, 
+Corentin utilise un langage étrange, on entend quelques « donnez mois du rouge… Du velours… De l’englobant, ce numéro est chaleureux, donnez moi de la chaleur ».    
+Moi qui le pensait chorégraphe, le voilà couturier et chauffagiste…
 
-Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:
-
-1. consectetur adipisicing elit
-2. sed do eiusmod tempor incididunt
-3. ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+La reprise est intense. Huit minute de chorégraphie, c’est long et deux jours, c’est court. 
+Mais chacun donne de soi, chacun s’entraide, répète et ne lâche rien. 
+On découvre peu à peu le tableau dans son ensemble. Chacun a son moment, chacun a sa part de lumière.
+A la fin de ce premier jour de danse, chacun sort épuisé mais heureux.     
+La joie est toujours présente en ce dimanche matin, mais la fatigue a fait place aux courbatures.    
+Mais le _Show Must Go On_ et à la fin de ce week-end, le numéro d’ouverture est monté.    
+La troupe semble enjouée, malgré la fatigue qui se lit sur leur visage, accompagnée de sourires.   
+Les connexions sont de plus en plus fortes, et nous aurons appris ce week-end que _Everybody Can cancan_ !

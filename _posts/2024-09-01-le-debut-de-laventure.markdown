@@ -1,32 +1,22 @@
 ---
 layout: post
-title:  "Le début de l'aventure associative"
+title:  "Le début de l'asociation"
 date:   2024-09-01
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+description: Le début de l'association.
 thumbnail: fauteuils.jpeg
 categories: association
 
 # Information for the author block
-author: Louis Maritaud
+author: Corentin Allano
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [enim ad minim][link1] veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Ut enim ad minim veniam][link2], quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit][link3], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-
-###Ut Labore et Dolore
-
-Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:
-
-1. consectetur adipisicing elit
-2. sed do eiusmod tempor incididunt
-3. ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+### C’est un rêve qui devient réalité.     
+Ce rêve c’est celui de Rébecca et Corentin. 
+Il est né il y a déjà quelques années, suite au premier stage de comédie musicale que Rébecca a mené seule sur trois jours, et où Corentin n’était qu'un simple stagiaire.
+C’est à l’époque une rencontre humaine et artistique qui se joue. 
+De cette rencontre né un rêve, travailler ensemble à promouvoir la comédie musicale amateur pour adulte sur Grenoble.    
+En août 2024, la décision sera prise : Rébecca et Corentin se sont réunis dans l’un de leur bureaux favoris
+ pour prendre de grandes décisions, et le rêve deviendra projet sous la forme d’une association !
+Bon mais qu’en est-il du nom… et ils se tourneront naturellement vers Le Masque Productions.    
+Un rêve devenu projet, c’est bien, mais faut il encore être en mesure de le réaliser.
+Il faut une équipe pour tenir le Conseil d’Administration de l’association qui doit être à l’image de leur rencontre : humaine.    
+C’est décidé, ils se tourneront vers Virginie et Cyril pour sceller, au titre de membres fondateurs, les statuts de l’association.

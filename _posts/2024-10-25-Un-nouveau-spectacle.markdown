@@ -7,26 +7,14 @@ thumbnail: thumbnail_rouge.png
 categories: rouge
 
 # Information for the author block
-author: Louis Maritaud
+author: Corentin Allano
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [enim ad minim][link1] veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Ut enim ad minim veniam][link2], quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit][link3], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-
-###Ut Labore et Dolore
-
-Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:
-
-1. consectetur adipisicing elit
-2. sed do eiusmod tempor incididunt
-3. ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+### Roulement de tambours...
+Après des semaines - que dis-je ?- des mois de réflexion, le titre de la première comédie musicale de l’association Le Masque Productions est annoncé.
+Est nommée cette année, dans la catégorie, la future comédie musicale amateur pour adulte montée par Le masque Productions :    
+>Rouge! Le Musical    
+And the award goes to… 
+>Rouge! Le Musical    
+Je vous entends de là dire que c’est facile de gagner quand on concourt seul… 
+Mais pensiez vous que j’allais vous dévoiler leurs idées pour la suite ? 
+Je suis à peu près certain qu’ils se confieront à moi dans l’année, sur la suite de l’aventure.
