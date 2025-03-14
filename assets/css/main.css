@@ -604,12 +604,6 @@ main .toggle-button {
               transform: rotate(-135deg); }
 
 
-.listing{
-  a.post-title{
-    color:black;  
-  }
-}
-
 #menu.topNavbar {
   position: fixed;
   z-index: 1;
@@ -894,7 +888,7 @@ button.download {
     color: #9FA8DA;
     font-weight: 500; }
     .post-wrap a.post-title {
-      color: white; }
+      color: black; }
 
 .authorBlock.flexbox-contain {
   width: 100%;
