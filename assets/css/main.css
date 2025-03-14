@@ -744,18 +744,15 @@ footer {
     height:5px;
   }}
 
-.imgBackArticle{ 
+.imgBackArticle { 
   background-size: cover;
   background-position: center center;
   color: white; }
-
   .imgBackArticle h1 {
     margin-bottom: 0; }
-
   .imgBackArticle .meta {
     color: white;
     margin-top: 0; }
-
 .imgBackArticle.link:hover {
   -webkit-filter: saturate(70%);
           filter: saturate(70%);
