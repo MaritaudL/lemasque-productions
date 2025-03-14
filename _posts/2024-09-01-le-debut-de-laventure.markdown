@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le début de l'asociation"
+title:  "Le début de l'association"
 date:   2024-09-01
 description: Le début de l'association.
 thumbnail: fauteuils.jpeg

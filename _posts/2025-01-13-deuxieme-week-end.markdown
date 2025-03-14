@@ -21,7 +21,7 @@ Pendant que Rébecca travaille la voix avec les deux principaux protagonistes,
 Corentin utilise un langage étrange, on entend quelques « donnez mois du rouge… Du velours… De l’englobant, ce numéro est chaleureux, donnez moi de la chaleur ».    
 Moi qui le pensait chorégraphe, le voilà couturier et chauffagiste…
 
-La reprise est intense. Huit minute de chorégraphie, c’est long et deux jours, c’est court. 
+La reprise est intense. Huit minutes de chorégraphie, c’est long et deux jours, c’est court. 
 Mais chacun donne de soi, chacun s’entraide, répète et ne lâche rien. 
 On découvre peu à peu le tableau dans son ensemble. Chacun a son moment, chacun a sa part de lumière.
 A la fin de ce premier jour de danse, chacun sort épuisé mais heureux.     
