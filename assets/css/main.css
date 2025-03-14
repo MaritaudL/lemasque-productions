@@ -394,7 +394,7 @@ a {
 .post-title {
   font-weight: 700;
   font-size: 21px; 
-  color:white;}
+  color:black;}
 
 .imgBack .post-title {
   color: white;
@@ -602,7 +602,6 @@ main .toggle-button {
       top: 22px;
       -webkit-transform: rotate(-135deg);
               transform: rotate(-135deg); }
-
 
 #menu.topNavbar {
   position: fixed;
