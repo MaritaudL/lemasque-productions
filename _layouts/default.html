@@ -25,5 +25,16 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="{{ site.url }}/assets/js/function.js"></script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+		const menu = document.getElementById("menu");
+		const toggleButton = document.getElementById("toggle-button");
+
+		toggleButton.addEventListener("click", function () {
+			menu.classList.toggle("slideout-open");
+			menu.classList.toggle("slideout-closed");
+			});
+		});
+	</script>
   </body>
 </html>

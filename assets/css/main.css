@@ -554,55 +554,55 @@ main.pushLeft {
   margin-left: 260px;
   overflow: hidden; }
 
-main .toggle-button {
-  z-index: 10;
-  top:0;
+/* Bouton par défaut (avant ouverture du menu) */
+.toggle-button {
   position: fixed;
-  margin-left: 15px;
+  top: 15px;
+  left: 15px;
   width: 50px;
   height: 50px;
-  -webkit-transform: rotate(0deg);
-          transform: rotate(0deg);
-  transition: .5s ease-in-out;
-  cursor: pointer;
   background: none;
-  border: none; }
-  main .toggle-button .bar {
-    display: block;
-    position: absolute;
-    height: 3px;
-    width: 100%;
-    background: #917333;
-    border-radius: 9px;
-    opacity: 1;
-    left: 0;
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
-    transition: .30s ease-in-out; }
-  main .toggle-button .bar:nth-child(1) {
-    top: 12px;
-    width: 70%;
-    margin: 0 15%; }
-    main .toggle-button .bar:nth-child(1).open {
-      top: 22px;
-      -webkit-transform: rotate(135deg);
-              transform: rotate(135deg); }
-  main .toggle-button .bar:nth-child(2) {
-    top: 22px;
-    width: 90%;
-    margin: 0 5%; }
-    main .toggle-button .bar:nth-child(2).open {
-      opacity: 0;
-      left: -60px; }
-  main .toggle-button .bar:nth-child(3) {
-    top: 32px;
-    width: 70%;
-    margin: 0 15%; }
-    main .toggle-button .bar:nth-child(3).open {
-      top: 22px;
-      -webkit-transform: rotate(-135deg);
-              transform: rotate(-135deg); }
+  border: none;
+  cursor: pointer;
+  z-index: 100;
+  transition: all 0.3s ease-in-out;
+}
 
+/* Barres du bouton */
+.toggle-button .bar {
+  display: block;
+  position: absolute;
+  height: 3px;
+  width: 100%;
+  background: #917333;
+  border-radius: 9px;
+  transition: all 0.3s ease-in-out;
+}
+
+.toggle-button .bar:nth-child(1) {
+  top: 12px;
+  width: 70%;
+  margin: 0 15%;
+}
+
+.toggle-button .bar:nth-child(2) {
+  top: 22px;
+  width: 90%;
+  margin: 0 5%;
+}
+
+.toggle-button .bar:nth-child(3) {
+  top: 32px;
+  width: 70%;
+  margin: 0 15%;
+}
+
+/* Quand le menu est ouvert, le bouton passe à l'intérieur */
+#menu.slideout-open .toggle-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
 #menu.topNavbar {
   position: fixed;
   z-index: 1;
