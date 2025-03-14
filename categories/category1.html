@@ -3,11 +3,7 @@ layout: categories
 title: Rouge!
 thumbnail: thumbnail_rouge.png
 ---
-<div class='xs-12 topBar hidden'>
-  <p>{{ page.title }}</p>
-</div>
 
-<div class='divider xs-12 topBarTrigger'></div>
 {% for post in site.categories.rouge %}
   <div class='listing'>
     <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
