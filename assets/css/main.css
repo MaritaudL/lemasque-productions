@@ -744,6 +744,23 @@ footer {
     height:5px;
   }}
 
+.imgBackArticle{ 
+  background-size: cover;
+  background-position: center center;
+  color: white; }
+
+  .imgBackArticle h1 {
+    margin-bottom: 0; }
+
+  .imgBackArticle .meta {
+    color: white;
+    margin-top: 0; }
+
+.imgBackArticle.link:hover {
+  -webkit-filter: saturate(70%);
+          filter: saturate(70%);
+  cursor: pointer; }
+
 .imgBack {
   background-size: contain;
   background-position: center center;
@@ -754,11 +771,6 @@ footer {
   .imgBack .meta {
     color: white;
     margin-top: 0; }
-
-.imgBack.link:hover {
-  -webkit-filter: saturate(70%);
-          filter: saturate(70%);
-  cursor: pointer; }
 
 .textPreview {
   padding: 0 50px;
