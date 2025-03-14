@@ -604,6 +604,11 @@ main .toggle-button {
               transform: rotate(-135deg); }
 
 
+.listing{
+  a.post-title{
+    color:black;  
+  }
+}
 
 #menu.topNavbar {
   position: fixed;
