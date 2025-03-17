@@ -457,7 +457,7 @@ body.rouge {
   #menu.slideout-menu .flexbox .details b, #menu.slideout-menu .flexbox .details a {
     color: #cb2b41; }
 
-  main .toggle-button .bar {
+  .toggle-button .bar {
     background: #cb2b41;}
 
   footer div a {
@@ -554,9 +554,9 @@ main.pushLeft {
   overflow: hidden; }
   
   
-main .toggle-button {
+.toggle-button {
   z-index: 1;
-  position: fixed;
+  position: absolute;
   margin-left: 15px;
   margin-top:15px;
   width: 50px;
@@ -566,8 +566,10 @@ main .toggle-button {
   transition: .5s ease-in-out;
   cursor: pointer;
   background: none;
-  border: none; }
-  main .toggle-button .bar {
+  border: none; 
+  left: 22%;}
+   
+  .toggle-button .bar {
     display: block;
     position: absolute;
     height: 3px;
@@ -575,33 +577,72 @@ main .toggle-button {
     background: #917333;
     border-radius: 9px;
     opacity: 1;
-    left: 0;
+    left: 0px;
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
     transition: .30s ease-in-out; }
-  main .toggle-button .bar:nth-child(1) {
+ 
+  .toggle-button .bar:nth-child(1) {
     top: 12px;
     width: 70%;
     margin: 0 15%; }
-    main .toggle-button .bar:nth-child(1).open {
+    .toggle-button .bar:nth-child(1).open {
       top: 22px;
       -webkit-transform: rotate(135deg);
               transform: rotate(135deg); }
-  main .toggle-button .bar:nth-child(2) {
+  
+  .toggle-button .bar:nth-child(2) {
     top: 22px;
     width: 90%;
     margin: 0 5%; }
-    main .toggle-button .bar:nth-child(2).open {
+    .toggle-button .bar:nth-child(2).open {
       opacity: 0;
       left: -60px; }
-  main .toggle-button .bar:nth-child(3) {
+	   
+  .toggle-button .bar:nth-child(3) {
     top: 32px;
     width: 70%;
     margin: 0 15%; }
-    main .toggle-button .bar:nth-child(3).open {
+    .toggle-button .bar:nth-child(3).open {
       top: 22px;
       -webkit-transform: rotate(-135deg);
               transform: rotate(-135deg); }
+
+
+
+@media (max-width: 1152px) {
+	.toggle-button{
+		margin-left:0;
+		margin-top:0;
+		left:auto;
+		right: 10px;
+		width:25px;
+		height:20px;
+		top: 10px;}	  
+	.toggle-button .bar {
+			border-radius:9px;
+	}
+	
+	.toggle-button .bar:nth-child(1) {
+		top:0px;
+	}
+	
+	.toggle-button .bar:nth-child(1).open {
+		top:10px;
+  }	
+  	
+	.toggle-button .bar:nth-child(2) {
+		top:6px;
+	}
+		
+	.toggle-button .bar:nth-child(3) {
+		top:12px;
+	}
+	
+	.toggle-button .bar:nth-child(3).open {
+		top:10px;
+  }	
+}
 
 #menu.topNavbar {
   position: fixed;

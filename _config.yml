@@ -1,5 +1,5 @@
 # Default, Defaults
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lemasque-productions.com"
 # When developing, set this ^ equal to whatever localhost you're using
 
-# Socail Media links
+# Social Media links
 # Use these to link users to your organization's social media sites
 twitter:
 facebook:
