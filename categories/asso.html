@@ -1,0 +1,12 @@
+---
+layout: categories
+title: L'association
+thumbnail: logo.svg
+---
+
+{% for post in site.categories.association %}
+  <div class='listing'>
+    <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+  </div>
+{% endfor %}
