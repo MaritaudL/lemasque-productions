@@ -27,8 +27,7 @@ title: Actualités
 {% for post in site.posts limit:2 offset:3 %}
   <div class="sm-6 textPreview vertCenter grow short">
     <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
+      <a href='{{ post.url }}'><p>{{ post.excerpt }}</p></a>
       <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
     </div>
   </div>
@@ -51,7 +50,7 @@ title: Actualités
 {% for post in site.posts limit:2 offset:8 %}
   <div class="sm-6 textPreview vertCenter grow short">
     <div>
-      <a href='{{ post.url }}'> <p>{{ post.excerpt }}</p></a>
+      <a href='{{ post.url }}'><p>{{ post.excerpt }}</p></a>
       <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
     </div>
   </div>
