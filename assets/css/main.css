@@ -116,7 +116,8 @@ dfn {
  */
 h1 {
   font-size: 2em;
-  margin: 0.67em 0; }
+  margin: 0.67em 0; 
+  text-align:center;}
 
 /**
  * Address styling not present in IE 8/9.
@@ -911,7 +912,10 @@ button.download {
 .post-wrap {
   max-width: 710px;
   padding: 10px 10px 50px 10px;
-  margin: auto; }
+  margin: auto;
+  text-align:justify;  
+  }
+  
   .post-wrap h1 {
     margin-bottom: 0; }
   .post-wrap .meta {
@@ -952,3 +956,21 @@ button.download {
 
 .hidden {
   display: none; }
+
+@media (max-width: 1152px) {
+	h1{
+		font-size:2em;
+	}
+	h2{
+		font-size:1.7em;
+	}
+	h3{
+		font-size:1.5em;
+	}
+	p {
+		font-size: 1em;
+	}
+	.post-wrap{
+		max-width:80%;
+	}
+}
