@@ -1,5 +1,5 @@
 ---
-layout: post_rouge.html
+layout: post_rouge
 title:  "Quand la troupe se rencontre..."
 date:   2024-11-25 09:11:03
 description: Première répétition
