@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_rouge.html
 title:  "Everybody cancan!"
 date:   2025-01-13 09:11:03
 description: Premier week-end consacré à la danse

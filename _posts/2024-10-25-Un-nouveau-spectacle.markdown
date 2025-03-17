@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_rouge.html
 title:  "Cette année sera Rouge!"
 date:   2024-10-25 09:11:03
 description: Un nouveau spectacle en cours

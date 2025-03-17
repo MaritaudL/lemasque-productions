@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_rouge.html
 title:  "Tous en Choeur"
 date:   2025-02-17 09:11:03
 description: Troisième week-end, orientation chant
