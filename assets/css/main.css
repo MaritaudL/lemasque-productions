@@ -447,6 +447,7 @@ div{
   .container_total{
     flex-direction:row;
     display:flex;
+    row-gap:30px;
   }  
 }
 body {
