@@ -448,8 +448,12 @@ div{
     flex-direction:row;
     display:flex;
     row-gap:30px;
+    @media (max-width: 910px) {
+		  flex-direction:column;  
+    }
   }  
 }
+
 body {
   background: white;
   padding:0;
