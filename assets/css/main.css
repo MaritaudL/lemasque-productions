@@ -439,6 +439,16 @@ html,
 body {
   min-height: 100vh; }
 
+
+div{
+  .container{
+    width:50%;
+  }
+  .container_total{
+    flex-direction:row;
+    display:flex;
+  }  
+}
 body {
   background: white;
   padding:0;
